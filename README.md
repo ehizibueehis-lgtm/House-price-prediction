@@ -6,7 +6,7 @@ To preprocess a messy housing dataset and build a Multiple Linear Regression mod
 ## Project Structure
 * `charts/`: Contains the evaluation visualizations (Actual vs Predicted, Residual Plot, Metrics Summary).
 * `house_price_regression.py`: The main script for data preprocessing, model training, and evaluation.
-* `cleaned_housing_data.csv`: The final, clean dataset of 1,911 records.
+* `data/cleaned_housing_data.csv`: The final, clean dataset of 1,911 records.
 * `requirements.txt`: Python dependencies required to run the script.
 
 ## Setup Instructions
